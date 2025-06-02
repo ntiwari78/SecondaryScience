@@ -116,4 +116,66 @@ While **informally** an ordered list, a **sequence** is **formally** a function 
 
 This definition **distinguishes a sequence from a set**, where order and repetition follow different principles.
 
+---
+---
+
+
+# Sequences and Series: A Study Guide
+
+## Quiz
+
+1. In everyday life, how are the terms "[sequence](https://en.wikipedia.org/wiki/Sequence)" and "[series](https://en.wikipedia.org/wiki/Series_%28mathematics%29)" typically used, and how does this differ from their mathematical meaning?
+2. Provide two examples of how the terms "sequence" and "series" are used interchangeably in day-to-day language.
+3. What does the term "succession" refer to in the context of everyday usage of "sequence" or "series"?
+4. Describe the first example of a sequence presented in the lecture.
+5. Explain the second example related to dividing 10 by 3 and what it illustrates about sequences.
+6. Briefly explain the rabbit problem and its connection to a specific type of number sequence.
+7. How is a sequence informally defined in mathematics according to the lecture?
+8. How is a sequence more formally defined mathematically, relating it to the concept of a [function](https://en.wikipedia.org/wiki/Function_%28mathematics%29)?
+9. Besides listing terms and using a rule for the nth term, what is another way to describe a sequence, particularly illustrated by the rabbit problem?
+10. Why is a sequence considered different from a [set](https://en.wikipedia.org/wiki/Set_%28mathematics%29) in mathematics, even though similar notation might be used?
+
+---
+
+## Quiz Answer Key
+
+1. In everyday life, "sequence" and "series" are often used interchangeably to mean a succession or ordered list of events or objects. In mathematics, they have distinct technical meanings.
+2. Examples include saying "a sequence of events," "a series of mathematics tests," or "a cricket test match series."
+3. "Succession" in this context means an ordered list or arrangement of events or objects.
+4. The first example listed positive even integers as 2, 4, 6, 8, and so on, with the nth term being $2n$.
+5. This example involves listing the successive quotients obtained when dividing 10 by 3 step-by-step (3, 3.3, 3.33, etc.), demonstrating an ordered list derived from a process.
+6. The rabbit problem involves tracking the number of pairs of rabbits over time, where each pair of mature rabbits produces a new pair monthly. This generates the historically named [Fibonacci numbers](https://en.wikipedia.org/wiki/Fibonacci_number).
+7. Informally, a sequence is defined as an ordered list of numbers.
+8. More formally, a sequence is defined as a function where the domain is the set of [natural numbers](https://en.wikipedia.org/wiki/Natural_number) (or a subset of natural numbers) and the codomain is typically the set of [real numbers](https://en.wikipedia.org/wiki/Real_number).
+9. A sequence can also be described using a [recurrence relation](https://en.wikipedia.org/wiki/Recurrence_relation), which defines a term based on the previous terms in the sequence.
+10. A sequence is different from a set because **order matters** in a sequence, and elements can be repeated. In a set, the order of elements is not important, and elements are typically not listed repeatedly.
+
+---
+
+## Essay Questions
+
+1. Discuss the relationship between sequences and functions as described in the lecture. Explain how the formal definition of a sequence as a function captures the concept of an ordered list.
+2. Compare and contrast the different ways presented in the lecture for describing a sequence (listing terms, using a rule, and recurrence relations). Provide hypothetical examples for each method.
+3. Explain the significance of order in the definition of a sequence and how this distinguishes it from a set. Use examples from the lecture to illustrate your points.
+4. Describe the Fibonacci sequence based on the rabbit problem example. Explain how a recurrence relation can be used to define this sequence and why it is a suitable method in this case.
+5. Analyze the examples related to calculating interest ([simple](https://en.wikipedia.org/wiki/Simple_interest) vs. [compound](https://en.wikipedia.org/wiki/Compound_interest)) as potential illustrations of sequences. Discuss how different interest calculation methods could generate different ordered lists of amounts over time.
+
+---
+
+## Glossary of Key Terms
+
+* **[Sequence](https://en.wikipedia.org/wiki/Sequence):** Informally, an ordered list of numbers. Formally, a function from the set of natural numbers (or a subset of natural numbers) to the set of real numbers.
+* **[Series](https://en.wikipedia.org/wiki/Series_%28mathematics%29):** While often used interchangeably with sequence in everyday language, it has a separate technical meaning in mathematics (related to the **sum** of the terms of a sequence).
+* **Succession:** An ordered arrangement or list of events or objects. Used in the everyday context of sequence and series.
+* **Terms:** The individual numbers or elements in a sequence.
+* **Domain (of a sequence as a function):** The set of natural numbers (1, 2, 3, ...) or a finite or infinite subset of natural numbers, representing the "place" or index of a term in the sequence.
+* **Codomain (of a sequence as a function):** The set of possible output values for the sequence, typically the set of real numbers $\mathbb{R}$ in the context of a real sequence.
+* **Range (of a sequence as a function):** The actual set of values that appear as terms in the sequence.
+* **Rule for the nth term (General Term):** An expression (usually in terms of 'n', the index) that allows you to calculate any term in a sequence directly based on its position. Often denoted as $a_n$.
+* **[Recurrence Relation](https://en.wikipedia.org/wiki/Recurrence_relation) (Recursive Definition):** A way of defining a sequence by expressing each term (or a general term) as a function of the preceding terms. Requires initial terms to be specified.
+* **Finite Sequence:** A sequence with a limited or finite number of terms.
+* **Infinite Sequence:** A sequence with an unlimited or infinite number of terms.
+* **[Fibonacci Numbers](https://en.wikipedia.org/wiki/Fibonacci_number):** A sequence of numbers where each number is the sum of the two preceding ones, typically starting with 0 and 1, or 1 and 1. Illustrated by the rabbit problem.
+
+
 
