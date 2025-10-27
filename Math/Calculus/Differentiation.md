@@ -415,3 +415,126 @@ $$
 - [Quotient Rule (Wikipedia)](https://en.wikipedia.org/wiki/Quotient_rule)
 - [Derivative (Wikipedia)](https://en.wikipedia.org/wiki/Derivative)
 - [Trigonometric Derivatives (Khan Academy)](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-2-5/a/differentiating-trig-functions-review)
+
+---
+---
+
+# Summary of Differentiation Rules
+
+1. **Power Rule**:  
+
+$$
+   \[
+   \frac{d(x^n)}{dx} = nx^{n-1}
+   \]
+$$
+
+2. **Constant Rule**:  
+
+$$
+   \[
+   \frac{d(\text{constant})}{dx} = 0
+   \]
+$$
+
+3. **Constant Multiple Rule**:  
+
+$$
+   \[
+   \frac{d(c \cdot f(x))}{dx} = c \cdot \frac{df(x)}{dx}
+   \]
+$$
+
+4. **Sum and Difference Rule**:  
+
+$$
+   \[
+   \frac{d(m \pm n)}{dx} = \frac{dm}{dx} \pm \frac{dn}{dx}
+   \]
+$$
+
+5. **Product Rule**:  
+
+$$
+   \[
+   \frac{d(m \cdot n)}{dx} = \left(\frac{dm}{dx}\right)n + \left(\frac{dn}{dx}\right)m
+   \]
+$$
+
+6. **Quotient Rule (Dividend Rule)**:
+ 
+$$  
+   \[
+   \frac{d\left(\frac{m}{n}\right)}{dx} = \frac{\frac{dm}{dx} \cdot n - \frac{dn}{dx} \cdot m}{n^2}
+   \]
+$$
+
+---
+
+## 7. Chain Rule
+
+The **Chain Rule** is used to differentiate **composite functions** — functions of the form $\( y = f(g(x)) \)$ , where one function is nested inside another.
+
+### Chain Rule Formula
+
+If $\( y = f(g(x)) \)$ , then:
+
+$$
+\[
+\frac{dy}{dx} = \frac{df}{dg} \cdot \frac{dg}{dx}
+\]
+$$
+
+Or more commonly written as:
+
+$$
+\[
+\frac{d}{dx}f(g(x)) = f'(g(x)) \cdot g'(x)
+\]
+$$
+
+---
+
+### Example: $\( \frac{d}{dx} \left( \sin(x^2) \right) \)$
+
+Here, the outer function is $\( f(u) = \sin u \)$ , and the inner function is $\( g(x) = x^2 \)$ .
+
+1. Differentiate the outer function with respect to the inner function:
+
+$$
+   \[
+   \frac{d}{du}(\sin u) = \cos u
+   \]
+$$
+
+2. Multiply by the derivative of the inner function:
+
+$$
+   \[
+   \frac{d}{dx}(x^2) = 2x
+   \]
+$$
+
+3. Apply the chain rule:
+
+$$
+   \[
+   \frac{d}{dx}(\sin(x^2)) = \cos(x^2) \cdot 2x
+   \]
+$$
+
+**Final Result:**
+
+$$
+\[
+\boxed{\frac{d}{dx}(\sin(x^2)) = 2x \cos(x^2)}
+\]
+$$
+
+---
+
+## References
+
+- [Chain Rule (Wikipedia)](https://en.wikipedia.org/wiki/Chain_rule)
+- [Derivative (Wikipedia)](https://en.wikipedia.org/wiki/Derivative)
+- [Trigonometric Derivatives (Khan Academy)](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-2-5/a/differentiating-trig-functions-review)
