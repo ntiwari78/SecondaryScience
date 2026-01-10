@@ -1,5 +1,8 @@
 - https://ncert.nic.in/textbook/pdf/lemh104.pdf
-- 
+
+---
+
+![det](https://github.com/ntiwari78/SecondaryScience/blob/main/Math/LinearAlgebra/Determinants.png)
 
 
 
