@@ -71,3 +71,6 @@ Learn how **disturbances** move through a medium **without transferring matter**
 - [Simple Harmonic Motion – Wikipedia](https://en.wikipedia.org/wiki/Simple_harmonic_motion)
 - [Wave – Wikipedia](https://en.wikipedia.org/wiki/Wave)
 
+---
+
+![waves](https://github.com/ntiwari78/SecondaryScience/blob/main/Physics/images/wavesTypes.jpeg)
