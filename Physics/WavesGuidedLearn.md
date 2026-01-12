@@ -369,3 +369,5 @@ These formulas help us understand **how waves move**, what affects their **speed
 - [Beat (Acoustics) – Wikipedia](https://en.wikipedia.org/wiki/Beat_(acoustics))
 
 ---
+![Longitudianl](https://github.com/ntiwari78/SecondaryScience/blob/main/Physics/images/LongitudinalWaves.jpeg)
+![oscillation](https://github.com/ntiwari78/SecondaryScience/blob/main/Physics/images/Oscillations.jpeg)
