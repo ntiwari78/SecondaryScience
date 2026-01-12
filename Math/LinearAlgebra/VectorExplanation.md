@@ -15,7 +15,7 @@ Direction cosines are simply the **cosines of the angles** that a vector makes w
 
 ## ✏️ Step 2: Find the Vector from A to B
 
-To find the vector **\( \vec{AB} \)**, subtract coordinates of A from B:
+To find the vector **-> $\( \vec{AB} \)$ .**, subtract coordinates of A from B:
 
 $$
 \[
